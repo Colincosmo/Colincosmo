@@ -104,9 +104,8 @@ I'm wangzhenyang, Fullstack developer from  Ningxia, China, currently living in 
 </div>
 
 <h1 align="center">
-  <a href="https://www.baidu.com/">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=console.log(%34Hello%2C%20WelCome to my GitHub!%34);眼有星辰大海，心有繁花似锦，我可以，我一定行！&center=true&size=16">
-  </a>
+	<a href="https://www.baidu.com">
+		<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=%E7%9C%BC%E6%9C%89%E6%98%9F%E8%BE%B0%E5%A4%A7%E6%B5%B7%EF%BC%8C%E5%BF%83%E6%9C%89%E7%B9%81%E8%8A%B1%E4%BC%BC%E9%94%A6%EF%BC%8C%E6%88%91%E5%8F%AF%E4%BB%A5%EF%BC%8C%E6%88%91%E4%B8%80%E5%AE%9A%E8%A1%8C%EF%BC%81" alt="Typing SVG" /></a>
 </h1>
 
 ### 编码时间
