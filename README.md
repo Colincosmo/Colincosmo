@@ -7,7 +7,12 @@ I'm wangzhenyang, Fullstack developer from  Ningxia, China, currently living in 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Colincosmo&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/Colincosmo/Colincosmo)
 
 ### 🛠  技术堆栈
-JavaScript TypeScript Vue Node.js Koa.js miniprogram
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
 
 ### 统计数据
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Colincosmo&repo=vue3-template&show_owner=true&theme=midnight-purple)](https://github.com/Colincosmo/vue3-template)
