@@ -79,12 +79,14 @@ I'm wangzhenyang, Fullstack developer from  Ningxia, China, currently living in 
 
 
 ### DemoList
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Colincosmo&repo=vue3-template&show_owner=true&theme=midnight-purple" />
+<div align="center">
+	<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Colincosmo&repo=vue3-template&show_owner=true&theme=midnight-purple" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Colincosmo&repo=vue3-template&show_owner=true&theme=midnight-purple" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Colincosmo&repo=vue3-template&show_owner=true&theme=midnight-purple" />
 </a>
+</div>
 
 ### 统计数据
 <div align="center">
