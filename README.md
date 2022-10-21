@@ -105,7 +105,7 @@ I'm wangzhenyang, Fullstack developer from  Ningxia, China, currently living in 
 
 <h1 align="center">
   <a href="https://sunguoqi.com/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);小孙同学祝您今天愉快!&center=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);眼有星辰大海，心有繁花似锦，我可以，我一定行！&center=true&size=27">
   </a>
 </h1>
 
