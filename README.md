@@ -15,7 +15,9 @@ I'm wangzhenyang, Fullstack developer from  Ningxia, China, currently living in 
 </a>
 
 ### 统计数据
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Colincosmo&repo=vue3-template&show_owner=true&theme=midnight-purple)](https://github.com/Colincosmo/vue3-template)
+<a href="">
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Colincosmo&repo=vue3-template&show_owner=true&theme=midnight-purple)]     (https://github.com/Colincosmo/vue3-template)
+</a>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Colincosmo&repo=vue3-template&show_owner=true&theme=midnight-purple)](https://github.com/Colincosmo/vue3-template)
 
