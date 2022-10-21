@@ -97,7 +97,7 @@ I'm wangzhenyang, Fullstack developer from  Ningxia, China, currently living in 
 ### 社交统计
 <div align="center">
     <img src="https://stats.justsong.cn/api/github?username=Colincosmo"/>
-    <img src="https://stats.justsong.cn/api/leetcode?username=ElatedCoriZeV&cn=true" />
+    <img src="https://stats.justsong.cn/api/leetcode?username=elated-corizev&cn=true" />
 </div>
 
 <div align="center">
