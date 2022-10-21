@@ -33,9 +33,7 @@ I'm wangzhenyang, Fullstack developer from  Ningxia, China, currently living in 
 </div>
 
 ### 活动历史轨迹
-<div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=Colincosmo&theme=xcode" />
-</div>
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### 社交统计
 <div align="center">
