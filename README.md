@@ -8,10 +8,10 @@ I'm wangzhenyang, Fullstack developer from  Ningxia, China, currently living in 
 
 ### 🛠  技术堆栈
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Colincosmo&repo=github-readme-stats&show_owner=true&theme=midnight-purple" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Colincosmo&repo=vue3-template&show_owner=true&theme=midnight-purple" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Colincosmo&repo=convoychat&show_owner=true&theme=midnight-purple" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Colincosmo&repo=vue3-template&show_owner=true&theme=midnight-purple" />
 </a>
 
 ### 统计数据
