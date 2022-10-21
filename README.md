@@ -10,7 +10,7 @@ I'm wangzhenyang, Fullstack developer from  Ningxia, China, currently living in 
 
 ### 🛠  技术堆栈
 <span >
-	<img  src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+	<img  src="https://camo.githubusercontent.com/b5bf595e34a2743d9624117b3789bb0638235d2402889fc46636bb33aab7aee9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d4637444631453f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d303030303030266c6162656c436f6c6f723d25323346374446314326636f6c6f723d253233464643453541" />
 	<img  src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
 	<img  src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" />
 </span>
@@ -31,9 +31,6 @@ I'm wangzhenyang, Fullstack developer from  Ningxia, China, currently living in 
 <div align="center">
     <img  src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN" />
 </div>
-
-### 活动历史轨迹
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### 社交统计
 <div align="center">
