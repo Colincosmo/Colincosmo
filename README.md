@@ -8,16 +8,14 @@ I'm wangzhenyang, Fullstack developer from  Ningxia, China, currently living in 
 
 ### 🛠  技术堆栈
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&shoshow_owner=true&theme=midnight-purple&w_owner=true&theme=midnight-purple" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
 
 ### 统计数据
-<a href="">
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Colincosmo&repo=vue3-template&show_owner=true&theme=midnight-purple)]     (https://github.com/Colincosmo/vue3-template)
-</a>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Colincosmo&repo=vue3-template&show_owner=true&theme=midnight-purple)]     (https://github.com/Colincosmo/vue3-template)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Colincosmo&repo=vue3-template&show_owner=true&theme=midnight-purple)](https://github.com/Colincosmo/vue3-template)
 
