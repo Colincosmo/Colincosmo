@@ -96,10 +96,10 @@ I'm wangzhenyang, Fullstack developer from  Ningxia, China, currently living in 
 
 ### 社交统计
 <div align="center">
-    <img src="https://stats.justsong.cn/api/github?username=Colincosmo"/>
-    <img src="https://stats.justsong.cn/api/leetcode?username=beginner_fullstack&cn=true" />
-    <img src="https://stats.justsong.cn/api/nowcoder?id=271096784" />
-    <img src="https://stats.justsong.cn/api/bilibili/?id=476868994" />
+    <img src="https://stats.justsong.cn/api/github?username=Colincosmo&theme=midnight-purple"/>
+    <img src="https://stats.justsong.cn/api/leetcode?username=beginner_fullstack&cn=true&theme=midnight-purple" />
+    <img src="https://stats.justsong.cn/api/nowcoder?id=271096784&theme=midnight-purple" />
+    <img src="https://stats.justsong.cn/api/bilibili/?id=476868994&theme=midnight-purple" />
 </div>
 
 <div align="center">
