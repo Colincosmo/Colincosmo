@@ -98,6 +98,7 @@ I'm wangzhenyang, Fullstack developer from  Ningxia, China, currently living in 
 <div align="center">
     <img src="https://stats.justsong.cn/api/github?username=Colincosmo"/>
     <img src="https://stats.justsong.cn/api/leetcode?username=beginner_fullstack&cn=true" />
+    <img src="https://stats.justsong.cn/api/nowcoder?id=271096784" />
 </div>
 
 <div align="center">
