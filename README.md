@@ -10,5 +10,5 @@ skillicons
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Colincosmo&repo=vue3-template&show_owner=true&theme=midnight-purple)](https://github.com/Colincosmo/vue3-template)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Colincosmo)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Colincosmo&show_owner=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
