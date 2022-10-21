@@ -104,8 +104,8 @@ I'm wangzhenyang, Fullstack developer from  Ningxia, China, currently living in 
 </div>
 
 <h1 align="center">
-  <a href="https://sunguoqi.com/">
-    <img src="https://www.baidu.com/?lines=console.log(%22Hello%2C%20World!%22);眼有星辰大海，心有繁花似锦，我可以，我一定行！&center=true&size=16">
+  <a href="https://www.baidu.com/">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=console.log(%22Hello%2C%20World!%22);眼有星辰大海，心有繁花似锦，我可以，我一定行！&center=true&size=16">
   </a>
 </h1>
 
