@@ -41,7 +41,7 @@ I'm wangzhenyang, Fullstack developer from  Ningxia, China, currently living in 
 </div>
 
 <div align="center">
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN" />
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN&theme=highcontrast" />
 </div>
 
 <h1 align="center">
