@@ -37,7 +37,7 @@ I'm wangzhenyang, Fullstack developer from  Ningxia, China, currently living in 
 </div>
 
 <div align="center">
-    <img src="https://stats.justsong.cn/api/csdn?id=weixin_50915462">
+    <img src="https://stats.justsong.cn/api/github?username=Colincosmo"/>
 </div>
 
 <div align="center">
