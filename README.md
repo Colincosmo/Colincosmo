@@ -88,7 +88,8 @@ I'm wangzhenyang, Fullstack developer from  Ningxia, China, currently living in 
 
 ### 统计数据
 <div align="center">
-	[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Colincosmo&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/Colincosmo/Colincosmo)
+	<a href="https://github.com/Colincosmo/Colincosmo"></a>
+	<img src="https://github-readme-stats.vercel.app/api?username=Colincosmo&count_private=true&show_icons=true&theme=midnight-purple" />
 </div>
 
 ### 社交统计
