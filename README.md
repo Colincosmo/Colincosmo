@@ -24,11 +24,4 @@ I'm wangzhenyang, Fullstack developer from  Ningxia, China, currently living in 
 
 
 ### 编码时间
-<div align="center">
-  C/C++      5 hrs 2 mins    ██████████████░░░░░░░░░░░   56.51 % 
-  PyTorch    1 hr 11 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.39 % 
-  Python     1 hr 7 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
-  Markdown   34 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
-  JSON       17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-  Others     38 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.82 %
-</div>
+
