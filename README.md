@@ -1,6 +1,6 @@
 <div> 
 	<img width="30" height="30" src="https://user-images.githubusercontent.com/66305203/197138394-ffd42f0e-4e1a-4c67-b5a1-129aa0f8664c.png" />
-	<span>Hey! Nice to see you.y</span>
+	<span line="30px">Hey! Nice to see you.y</span>
 </div> 
 
 ### Welcome to my page!
