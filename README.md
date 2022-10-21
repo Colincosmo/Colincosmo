@@ -10,13 +10,13 @@ I'm wangzhenyang, Fullstack developer from  Ningxia, China, currently living in 
 
 ### 🛠  技术堆栈
 <div> 
-  <img src="https://camo.githubusercontent.com/1ed1fef98c8c98dec17b985c10aa2e1ed8089c66a5803dbe19921b2859f24cd5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d566974652d3634364346463f7374796c653d666c61742d737175617265266c6f676f3d56697465266c6f676f436f6c6f723d666666666666&logo=Vite&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3" /> 
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3" /> 
   <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=JavaScript" />
   <img src="https://img.shields.io/badge/-TypeScript-oringe?style=flat-square&logo=Typescript" /> 
 </div>
 <div> 
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/-Vite-E34F26?style=flat-square&logo=Vite&logoColor=white" /> 
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3" /> 
   <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=JavaScript" />
   <img src="https://img.shields.io/badge/-TypeScript-oringe?style=flat-square&logo=Typescript" /> 
