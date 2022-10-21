@@ -16,7 +16,7 @@ I'm wangzhenyang, Fullstack developer from  Ningxia, China, currently living in 
   <img src="https://img.shields.io/badge/-TypeScript-oringe?style=flat-square&logo=Typescript" /> 
 </div>
 <div> 
-  <img src="https://img.shields.io/badge/-Vite-E34F26?style=flat-square&logo=Vite&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/-Vite-E34F26?style=flat-square&logo=Vite&logoColor=blue" /> 
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3" /> 
   <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=JavaScript" />
   <img src="https://img.shields.io/badge/-TypeScript-oringe?style=flat-square&logo=Typescript" /> 
