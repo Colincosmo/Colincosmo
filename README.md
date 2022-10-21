@@ -6,6 +6,8 @@
 ### Welcome to my page!
 I'm wangzhenyang, Fullstack developer from  Ningxia, China, currently living in  Hubei, Wuhan.
 
+<div align="center"> <img src="https://metrics.lecoq.io/sun0225SUN?template=classic&config.timezone=Asia%2FShanghai"> </div>
+
 ### 🏆奖杯
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Colincosmo&column=3&margin-w=15&margin-h=15" />
