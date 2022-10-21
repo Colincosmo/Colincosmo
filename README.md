@@ -87,12 +87,8 @@ I'm wangzhenyang, Fullstack developer from  Ningxia, China, currently living in 
 </a>
 
 ### 统计数据
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Colincosmo&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/Colincosmo/Colincosmo)
-
-
-### 编码时间
 <div align="center">
-    <img  src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN" />
+	[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Colincosmo&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/Colincosmo/Colincosmo)
 </div>
 
 ### 社交统计
@@ -109,4 +105,9 @@ I'm wangzhenyang, Fullstack developer from  Ningxia, China, currently living in 
     <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);小孙同学祝您今天愉快!&center=true&size=27">
   </a>
 </h1>
+
+### 编码时间
+<div align="center">
+    <img  src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN" />
+</div>
 
