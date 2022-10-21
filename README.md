@@ -32,10 +32,12 @@ I'm wangzhenyang, Fullstack developer from  Ningxia, China, currently living in 
     <img  src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN" />
 </div>
 
+### 活动历史轨迹
 <div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=sun0225SUN&theme=xcode" />
+    <img src="https://activity-graph.herokuapp.com/graph?username=Colincosmo&theme=xcode" />
 </div>
 
+### 社交统计
 <div align="center">
     <img src="https://stats.justsong.cn/api/github?username=Colincosmo"/>
 </div>
