@@ -34,7 +34,6 @@ I'm wangzhenyang, Fullstack developer from  Ningxia, China, currently living in 
 </div>
 <div align="center">
 	<img width="43px" height="20px" src="https://redis.io/images/redis-cube.svg" />
-	<img src="https://redis.io/" />
 </div>
 
 
