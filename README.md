@@ -4,6 +4,7 @@
 I'm wangzhenyang, Fullstack developer from  Ningxia, China, currently living in  Hubei, Wuhan.
 
 Tech && Tools Preference
+React Angluar Vue Go Uni Flutter
 skillicons
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Colincosmo&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
