@@ -6,5 +6,5 @@ I'm wangzhenyang, Fullstack developer from  Ningxia, China, currently living in 
 Tech && Tools Preference
 skillicons
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Colincosmo&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Colincosmo&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
